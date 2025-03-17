@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on StreamInterakt, an application that makes it possible for streamers to control their streaming software directly from what's happening in-game
+🔭 I’m currently working on StreamInterakt, an application that makes it possible for streamers to control their streaming software directly from what's happening in-game
+Don't hesitate to take a look, you can find it [here](https://www.overwolf.com/app/heavy-streaminterakt)
 <!--
 **HeavyLab/HeavyLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
